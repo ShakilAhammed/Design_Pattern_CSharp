@@ -1,0 +1,1 @@
+﻿combine business rules by chaining using boolean method IsSatisfiedBy
